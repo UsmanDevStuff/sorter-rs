@@ -5,7 +5,7 @@ use std::path::{Path, PathBuf};
 
 fn main() {
     // Prompt the user for the folder path
-    println!("Directory Sorter By -- Muhammad Usman");
+    println!("Directory Sorter");
     print!("Enter folder path: ");
     io::stdout().flush().unwrap();
 
